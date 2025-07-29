@@ -6,8 +6,8 @@ Claude CLI hangs when running multiple instances in parallel. This prevents buil
 
 ```bash
 # Clone and test:
-git clone https://github.com/yourusername/claude-hanging-bug-minimal
-cd claude-hanging-bug-minimal
+git clone https://github.com/ericbuess/claude-code-sdk-hanging-bug
+cd claude-code-sdk-hanging-bug
 ./test-hanging.sh
 ```
 
